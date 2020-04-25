@@ -1,5 +1,5 @@
 
-//(1) 登录管理模块：主要实现登录身份的管理、密码管理
+//(1) 客户组合式查询功能模块，客户买房，租房模块功能实现
 #include <iostream> 
 #include <fstream> 
 #include <string> 
